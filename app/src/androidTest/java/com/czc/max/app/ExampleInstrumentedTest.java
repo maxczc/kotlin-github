@@ -1,4 +1,4 @@
-package com.czc.max.kotlin_github;
+package com.czc.max.app;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
