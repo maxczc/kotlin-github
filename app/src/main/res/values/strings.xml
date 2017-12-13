@@ -1,3 +1,4 @@
 <resources>
   <string name="app_name">kotlin-github</string>
+  <string name="content">云想衣裳花想容,\n春风拂槛露华浓,\n若非群玉山头见,\n会向瑶台月下逢。\nby李白</string>
 </resources>
